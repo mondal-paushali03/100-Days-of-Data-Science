@@ -3,8 +3,8 @@ Welcome to my 100 Days of Data Science journey! This repository tracks my daily 
 
 # Structure
 - Weeks 1-4: Python basics, data manipulation, and foundational data science concepts.
-- Weeks 5-8: SQL, data visualization (Excel, Power BI), and exploratory data analysis.
-- Weeks 9-12: Machine learning fundamentals and hands-on projects.
+- Weeks 5-8: Machine learning fundamentals and hands-on projects.
+- Weeks 9-12: SQL, data visualization (Excel, Power BI), and exploratory data analysis.
 - Weeks 13-16: Advanced topics like deep learning, NLP, and deployment.
 
 # Let’s Connect!
